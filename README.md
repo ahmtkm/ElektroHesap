@@ -14,6 +14,14 @@ ElektroHesap is an open-source Flutter application for preliminary electrical en
 - Input validation and explainable calculation results
 - Unit-tested calculation core
 
+## Live Demo
+
+Try the public Flutter web demo:
+
+[https://ahmtkm.github.io/ElektroHesap/](https://ahmtkm.github.io/ElektroHesap/)
+
+> **Important:** Preliminary engineering calculations only. Results should be reviewed by a qualified electrical professional.
+
 ## Technology
 
 - Flutter 3.41.5
